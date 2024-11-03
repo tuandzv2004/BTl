@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@if (TempData["Message"] != null)
+{
+    <div id="welcomeMessage" class="alert alert-success" style="position: fixed; top: 20px; right: 20px; z-index: 1000;">
+        @TempData["Message"]
+    </div>
+
+    <script>
+        // Tự động ẩn thông báo sau 3 giây
+        setTimeout(function () {
+            var message = document.getElementById('welcomeMessage');
+            if (message) {
+                message.style.display = 'none';
+            }
+        }, 3000);
+    </script>
+}
+
+
+    @await Html.PartialAsync("_Navbar")
+    
+    
+
+
+

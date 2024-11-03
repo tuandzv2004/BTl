@@ -1,0 +1,103 @@
+﻿@model BTL_Demo2.ViewModels.RegisterVM
+@{
+    ViewData["Title"] = "DangKy";
+}
+<div class="container-fluid p-0 mb-0">
+    <!-- Changed from 10px to 50px -->
+    <div id="blog-carousel" class="carousel slide overlay-bottom" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="w-100" src="~/img/navbar.jpg" alt="Image" style="height: 50%; object-fit: cover;" />
+                <div class="carousel-caption d-flex flex-column align-items-center justify-content-center" style="height: 100%; top: 0;">
+                    <h1 class="text-white display-4" style="margin: 0;">Xin chào quý khách!</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid py-0">
+    <div class="container py-0">
+        
+        <form asp-action="DangKy" enctype="multipart/form-data" onsubmit="return validateForm()">
+            <div class="row">
+                <div class="col-md-12 col-lg-6">
+                    <div class="form-item w-100">
+                        <label class="form-label my-3" asp-for="TenKH"></label><sup>*</sup>
+                        <input asp-for="TenKH" class="form-control" />
+                        <span asp-validation-for="TenKH" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <label class="form-label my-3" asp-for="DienThoai"></label><sup>*</sup>
+                    <input asp-for="DienThoai" class="form-control" />
+                    <span asp-validation-for="DienThoai" class="text-danger"></span>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <label class="form-label my-3" asp-for="Email"></label><sup>*</sup>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="col-md-12 col-lg-6" id="addressField" style="display: none;">
+                    <label class="form-label my-3" asp-for="DiaChi"></label><sup>*</sup>
+                    <input asp-for="DiaChi" class="form-control" />
+                    <span asp-validation-for="DiaChi" class="text-danger"></span>
+                </div>
+                <div class="col-md-12 pt-4">
+                    <h5>Lựa chọn phục vụ:</h5>
+                    <div class="form-check">
+                        <input asp-for="PhuongThuc" class="form-check-input" type="radio" value="DineIn" id="DineIn" onclick="toggleAddressField()" required />
+                        <label class="form-check-label" for="DineIn">Dùng tại bàn</label>
+                    </div>
+                    <div class="form-check">
+                        <input asp-for="PhuongThuc" class="form-check-input" type="radio" value="TakeAway" id="TakeAway" onclick="toggleAddressField()" required />
+                        <label class="form-check-label" for="TakeAway">Mang về</label>
+                    </div>
+                    <div class="form-check">
+                        <input asp-for="PhuongThuc" class="form-check-input" type="radio" value="Delivery" id="Delivery" onclick="toggleAddressField()" required />
+                        <label class="form-check-label" for="Delivery">Giao hàng</label>
+                    </div>
+                    <span asp-validation-for="PhuongThuc" class="text-danger"></span>
+                </div>
+
+                
+
+                <div class="row-6 text-center align-items-center justify-content-center pt-4">
+                    <button type="submit" class="btn border-secondary py-3 px-4 text-uppercase w-100 text-primary">Đăng nhập</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    function toggleAddressField() {
+        const deliveryOption = document.getElementById("Delivery").checked;
+        const addressField = document.getElementById("addressField");
+
+        if (deliveryOption) {
+            addressField.style.display = "block";
+        } else {
+            addressField.style.display = "none";
+            document.querySelector('input[name="DiaChi"]').value = ""; // Clear the address field if hidden
+        }
+    }
+
+    function validateForm() {
+        const radios = document.querySelectorAll('input[name="PhuongThuc"]');
+        let formValid = false;
+
+        for (const radio of radios) {
+            if (radio.checked) {
+                formValid = true;
+                break;
+            }
+        }
+
+        if (!formValid) {
+            alert("Vui lòng chọn phương thức phục vụ."); // Alert if no option is selected
+        }
+
+        return formValid; // Prevent form submission if no option is selected
+    }
+</script>

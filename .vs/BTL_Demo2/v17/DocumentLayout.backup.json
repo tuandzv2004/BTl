@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs2022\\BTLWEB\\BTLWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\data\\quanlycafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\data\\quanlycafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\data\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\data\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\wwwroot\\service.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\wwwroot\\service.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\wwwroot\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\wwwroot\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\wwwroot\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\wwwroot\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|e:\\vs2022\\btlweb\\btlweb\\btl_demo2\\data\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA2728-8A2E-4DF2-A6B9-0FF1AD4DB700}|BTL_Demo2\\BTL_Demo2.csproj|solutionrelative:btl_demo2\\data\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "BTL_Demo2\\Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:19:36.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "BTL_Demo2\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:19:07.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Controllers\\KhachHangController.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "BTL_Demo2\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvykAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:12:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\KhachHang.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Data\\KhachHang.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\KhachHang.cs",
+              "RelativeToolTip": "BTL_Demo2\\Data\\KhachHang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:55:27.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Data\\HangHoa.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\HangHoa.cs",
+              "RelativeToolTip": "BTL_Demo2\\Data\\HangHoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:55:15.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietGioHang.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\ChiTietGioHang.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Data\\ChiTietGioHang.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\ChiTietGioHang.cs",
+              "RelativeToolTip": "BTL_Demo2\\Data\\ChiTietGioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:50:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyCafeContext.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\QuanLyCafeContext.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Data\\QuanLyCafeContext.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\QuanLyCafeContext.cs",
+              "RelativeToolTip": "BTL_Demo2\\Data\\QuanLyCafeContext.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAwLgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:49:03.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\appsettings.json",
+              "RelativeDocumentMoniker": "BTL_Demo2\\appsettings.json",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\appsettings.json",
+              "RelativeToolTip": "BTL_Demo2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T08:46:00.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Controllers\\HangHoasController.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "BTL_Demo2\\Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:15:56.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "service.html",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\service.html",
+              "RelativeDocumentMoniker": "BTL_Demo2\\wwwroot\\service.html",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\service.html",
+              "RelativeToolTip": "BTL_Demo2\\wwwroot\\service.html",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAIQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-03T07:45:57.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "contact.html",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\contact.html",
+              "RelativeDocumentMoniker": "BTL_Demo2\\wwwroot\\contact.html",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\contact.html",
+              "RelativeToolTip": "BTL_Demo2\\wwwroot\\contact.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAIoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-03T07:45:24.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "about.html",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\about.html",
+              "RelativeDocumentMoniker": "BTL_Demo2\\wwwroot\\about.html",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\about.html",
+              "RelativeToolTip": "BTL_Demo2\\wwwroot\\about.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-03T07:44:56.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Views\\Service\\Index.cshtml",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "BTL_Demo2\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T07:44:28.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Controllers\\ServiceController.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "BTL_Demo2\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:44:20.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "BTL_Demo2\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T07:43:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Controllers\\ContactController.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "BTL_Demo2\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:43:05.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTL_Demo2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T07:42:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Views\\About\\Index.cshtml",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "BTL_Demo2\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T07:42:01.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Controllers\\AboutController.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "BTL_Demo2\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:41:42.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTL_Demo2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:31:10.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PhanCong.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\PhanCong.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Data\\PhanCong.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Data\\PhanCong.cs",
+              "RelativeToolTip": "BTL_Demo2\\Data\\PhanCong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:51:02.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Program.cs",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Program.cs",
+              "RelativeToolTip": "BTL_Demo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:45:31.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "BTL_Demo2\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "BTL_Demo2\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T04:40:25.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

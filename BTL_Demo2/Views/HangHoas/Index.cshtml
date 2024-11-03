@@ -1,0 +1,137 @@
+﻿@model IEnumerable<BTL_Demo2.ViewModels.HangHoaVM>
+@await Html.PartialAsync("_Navbar")
+<!-- Fruits Shop Start-->
+<div class="container-fluid fruite py-5">
+    <div class="container py-5">
+        <h1 class="mb-4">HiHi Coffee</h1>
+        <div class="row g-4">
+            <div class="col-lg-12">
+                <div class="row g-4">
+                    <div class="col-xl-3">
+                       
+                    </div>
+                    <div class="col-6"></div>
+                    
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-3">
+                        <div class="row g-4">
+                             @await Component.InvokeAsync("MenuLoai")
+                           
+                            <div class="col-lg-12">
+                                <div class="mb-3">
+                                    
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <h4 class="mb-3">Sản Phẩm Hot</h4>
+                                <div class="d-flex align-items-center justify-content-start m-3">
+                                    <div class="rounded me-4" style="width: 100px; height: 100px;">
+                                        <img src="~/img/menu-1.jpg" class="w-100 rounded-circle mb-3 mb-sm-0 mr-5" class="img-fluid rounded" alt="">
+                                    </div>
+                                    <div>
+                                        <h6 class="mb-2">Cafe đen</h6>
+                                        <div class="d-flex mb-2">
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center justify-content-start m-3">
+                                    <div class="rounded me-4" style="width: 100px; height: 100px;">
+                                        <img src="~/img/menu-2.jpg" class="w-100 rounded-circle mb-3 mb-sm-0 mr-5" class="img-fluid rounded" alt="">
+                                    </div>
+                                    <div>
+                                        <h6 class="mb-2">Cafe chocolate</h6>
+                                        <div class="d-flex mb-2">
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center justify-content-start m-3">
+                                    <div class="rounded me-4" style="width: 100px; height: 100px;">
+                                        <img src="~/img/menu-3.jpg" class="w-100 rounded-circle mb-3 mb-sm-0 mr-5" class="img-fluid rounded" alt="">
+                                    </div>
+                                    <div>
+                                        <h6 class="mb-2">Cafe espresso</h6>
+                                        <div class="d-flex mb-2">
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star text-secondary"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                <div class="d-flex justify-content-center my-4">
+                                    <a href="#" class="btn border border-secondary px-4 py-3 rounded-pill text-primary w-100">View More</a>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="row g-4 justify-content-center">
+                            @foreach (var item in Model)
+                            {
+                                <div class="col-md-6 col-lg-6 col-xl-4 mb-4">
+                                    <!-- Giữ nguyên cấu trúc cột -->
+                                    <div class="rounded position-relative fruite-item d-flex flex-column" style="height: 400px;">
+                                        <!-- Đặt chiều cao cố định cho ô -->
+                                        <div class="fruite-img" style="height: 60%; overflow: hidden;">
+                                            <!-- Chiều cao hình ảnh chiếm 60% -->
+                                            <img src="~/img/@item.Anh" class="img-fluid w-100" style="object-fit: cover; height: 100%;" alt=""> <!-- Giữ nguyên tỷ lệ hình ảnh -->
+                                        </div>
+                                        <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">@item.MaLoai</div>
+                                        <div class="p-4 border border-secondary border-top-0 rounded-bottom d-flex flex-column" style="height: 40%;">
+                                            <!-- Đặt chiều cao cho phần thông tin -->
+                                            <h5 class="mb-2">@item.TenHh</h5>
+                                            <div class="flex-grow-1">
+                                                <p class="mb-2 text-truncate">@item.MoTaNgan</p> <!-- Mô tả ngắn với giới hạn độ dài -->
+                                            </div>
+                                            <div class="d-flex justify-content-between align-items-center mt-auto">
+                                                <p class="text-dark fs-5 fw-bold mb-0">@item.DonGia VND</p>
+                                                <a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@item.MaHh"  class="btn border border-secondary rounded-pill px-3 text-primary">
+                                                    <i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+
+
+
+
+
+
+                            <div class="col-12">
+                                <div class="pagination d-flex justify-content-center mt-5">
+                                    <a href="#" class="rounded">&laquo;</a>
+                                    <a href="#" class="active rounded">1</a>
+                                    <a href="#" class="rounded">2</a>
+                                    <a href="#" class="rounded">3</a>
+                                    <a href="#" class="rounded">4</a>
+                                    <a href="#" class="rounded">5</a>
+                                    <a href="#" class="rounded">6</a>
+                                    <a href="#" class="rounded">&raquo;</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Fruits Shop End-->

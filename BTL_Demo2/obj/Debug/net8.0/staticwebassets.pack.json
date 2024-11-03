@@ -1,0 +1,841 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BTL_Demo2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTL_Demo2.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\READ-ME.txt"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\coffee-shop-html-template.jpg",
+      "PackagePath": "staticwebassets\\coffee-shop-html-template.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\about.png",
+      "PackagePath": "staticwebassets\\img\\about.png"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\americano.jpg",
+      "PackagePath": "staticwebassets\\img\\americano.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\banh-kem-trai-cay.jpg",
+      "PackagePath": "staticwebassets\\img\\banh-kem-trai-cay.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\banh-mi-ngot.jpg",
+      "PackagePath": "staticwebassets\\img\\banh-mi-ngot.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\banh-ngot-dau.jpg",
+      "PackagePath": "staticwebassets\\img\\banh-ngot-dau.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\banh-quy-chocolate.jpg",
+      "PackagePath": "staticwebassets\\img\\banh-quy-chocolate.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\ca-phe-da.jpg",
+      "PackagePath": "staticwebassets\\img\\ca-phe-da.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\ca-phe-den.jpg",
+      "PackagePath": "staticwebassets\\img\\ca-phe-den.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\ca-phe-sua.jpg",
+      "PackagePath": "staticwebassets\\img\\ca-phe-sua.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\ca-phe-truyen-thong.jpg",
+      "PackagePath": "staticwebassets\\img\\ca-phe-truyen-thong.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\cappuccino.jpg",
+      "PackagePath": "staticwebassets\\img\\cappuccino.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\espresso.jpg",
+      "PackagePath": "staticwebassets\\img\\espresso.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-bac-ha.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-bac-ha.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-caramel.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-caramel.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-chuoi.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-chuoi.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-dau.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-dau.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-dua.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-dua.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-matcha.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-matcha.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-socola.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-socola.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-tra-xanh.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-tra-xanh.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-trai-cay-hon-hop.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-trai-cay-hon-hop.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\kem-vanilla.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-vanilla.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\latte.jpg",
+      "PackagePath": "staticwebassets\\img\\latte.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\macchiato.jpg",
+      "PackagePath": "staticwebassets\\img\\macchiato.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\mocha.jpg",
+      "PackagePath": "staticwebassets\\img\\mocha.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\mut-trai-cay.jpg",
+      "PackagePath": "staticwebassets\\img\\mut-trai-cay.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\navbar.jpg",
+      "PackagePath": "staticwebassets\\img\\navbar.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\nuoc-ep-ca-rot.jpg",
+      "PackagePath": "staticwebassets\\img\\nuoc-ep-ca-rot.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\nuoc-ep-cam.jpg",
+      "PackagePath": "staticwebassets\\img\\nuoc-ep-cam.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\nuoc-ep-dau.jpg",
+      "PackagePath": "staticwebassets\\img\\nuoc-ep-dau.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\nuoc-ep-dua-hau.jpg",
+      "PackagePath": "staticwebassets\\img\\nuoc-ep-dua-hau.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\nuoc-ep-dua.jpg",
+      "PackagePath": "staticwebassets\\img\\nuoc-ep-dua.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\nuoc-ep-tao.jpg",
+      "PackagePath": "staticwebassets\\img\\nuoc-ep-tao.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\overlay-bottom.png",
+      "PackagePath": "staticwebassets\\img\\overlay-bottom.png"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\overlay-top.png",
+      "PackagePath": "staticwebassets\\img\\overlay-top.png"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\salad-ca-hoi.jpg",
+      "PackagePath": "staticwebassets\\img\\salad-ca-hoi.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\salad-ga.jpg",
+      "PackagePath": "staticwebassets\\img\\salad-ga.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\salad-rau-xanh.jpg",
+      "PackagePath": "staticwebassets\\img\\salad-rau-xanh.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\salad-trai-cay.jpg",
+      "PackagePath": "staticwebassets\\img\\salad-trai-cay.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\salad-trung.jpg",
+      "PackagePath": "staticwebassets\\img\\salad-trung.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service-2.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\img\\service-3.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\img\\service-4.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\sinh-to-bo.jpg",
+      "PackagePath": "staticwebassets\\img\\sinh-to-bo.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\sinh-to-chuoi.jpg",
+      "PackagePath": "staticwebassets\\img\\sinh-to-chuoi.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\sinh-to-dau.jpg",
+      "PackagePath": "staticwebassets\\img\\sinh-to-dau.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\sinh-to-xoai.jpg",
+      "PackagePath": "staticwebassets\\img\\sinh-to-xoai.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-den.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-den.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-sua-bac-ha.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-sua-bac-ha.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-sua-caramel.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-sua-caramel.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-sua-dau.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-sua-dau.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-sua-hoa-qua.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-sua-hoa-qua.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-sua-matcha.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-sua-matcha.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-sua-socola.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-sua-socola.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-sua-tra-xanh.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-sua-tra-xanh.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-sua-truyen-thong.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-sua-truyen-thong.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\img\\tra-xanh.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-xanh.jpg"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\menu.html",
+      "PackagePath": "staticwebassets\\menu.html"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\reservation.html",
+      "PackagePath": "staticwebassets\\reservation.html"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.css",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\service.html",
+      "PackagePath": "staticwebassets\\service.html"
+    },
+    {
+      "Id": "E:\\vs2022\\BTLWEB\\BTLWEB\\BTL_Demo2\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BTL_Demo2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BTL_Demo2.props",
+      "PackagePath": "build\\BTL_Demo2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BTL_Demo2.props",
+      "PackagePath": "buildMultiTargeting\\BTL_Demo2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BTL_Demo2.props",
+      "PackagePath": "buildTransitive\\BTL_Demo2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
